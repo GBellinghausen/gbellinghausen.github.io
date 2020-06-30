@@ -10,3 +10,7 @@ Wie auch immer, das soll's gewesen sein.
 * Erster Punkt
 * Zweiter Punkt
 * Dritter Punkt
+
+Wie Arthur Dent schon richtig sagte:
+> Ich habe nichts zu sagen.
+> Amen.
