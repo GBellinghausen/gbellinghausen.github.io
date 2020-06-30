@@ -14,3 +14,5 @@ Wie auch immer, das soll's gewesen sein.
 Wie Arthur Dent schon richtig sagte:
 > Ich habe nichts zu sagen.
 > Amen.
+
+<img src="https://vignette.wikia.nocookie.net/hitchhikers/images/a/af/Tumblr_m6z824lV1O1r5uhho.png/revision/latest/scale-to-width-down/278?cb=20121026075243"/>
